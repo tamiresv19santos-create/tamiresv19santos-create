@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**tamiresv19santos-create/tamiresv19santos-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Olá, meu nome é Tamires
 
-Here are some ideas to get you started:
+🎓 Estudante do Ensino Médio  
+💻 Apaixonada por tecnologia e programação  
+📘 Sempre aprendendo e experimentando coisas novas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 Meus interesses
+- Desenvolvimento de projetos simples  
+- Exercícios de programação  
+- Anotações e resumos escolares  
+
+---
+
+## 🛠️ Tecnologias que estou estudando
+- Python 🐍  
+- HTML & CSS 🌐  
+- JavaScript ⚡  
